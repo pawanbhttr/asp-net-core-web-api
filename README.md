@@ -1,2 +1,2 @@
-# asp-net-core-web-api
-ASP.NET Core Web API With 0Auth JWT Token
+# ASP.NET Core Web API
+ASP.NET Core Web API Demo With 0Auth JWT Token
